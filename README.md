@@ -5,7 +5,7 @@ dev275x
 * Option_2
 - Option_3
 
-```python
+```c
 print "Hello, world!"
 ```
 
