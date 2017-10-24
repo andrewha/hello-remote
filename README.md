@@ -14,7 +14,7 @@ print "Hello, world!"
 A simple table 1
 
 | Col_1 | Col_2 | ... | Col_N |
-| --- | --- | :---: | --- |
-| row_1 | `code_1` | **important** | 123 |
-| row_2 | `code_2` | _skip this_ | 456 |
+| --- | --- | :---: | ---: |
+| row_1 | `code_1` | **important** | 12345 |
+| row_2 | `code_2` | _skip this_ | 6789 |
 
