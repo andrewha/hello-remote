@@ -5,3 +5,5 @@ dev275x
 * Option_2
 
 `print "Hello, world!"`
+
+[This page](https://github.com/andrewha/hello-remote/blob/master/README.md)
