@@ -3,6 +3,7 @@ dev275x
 
 * Option_1
 * Option_2
+- Option_3
 
 ```python
 print "Hello, world!"
