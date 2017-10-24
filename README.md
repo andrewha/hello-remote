@@ -15,6 +15,13 @@ A simple table 1
 
 | Col_1 | Col_2 | ... | Col_N |
 | --- | --- | :---: | ---: |
-| row_1 | `code_1` | **important** | 12345 |
-| row_2 | `code_2` | _skip this_ | 6789 |
+| row_1 | ```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+``` | **important** | 12345 |
+| row_2 | ```python
+s = "Python syntax highlighting"
+print s
+``` | _skip this_ | 6789 |
+| row_3 | no code here | n/a | 0 |
 
