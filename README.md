@@ -5,7 +5,7 @@ dev275x
 * Option_2
 - Option_3
 
-```f#
+```cobol
 print "Hello, world!"
 ```
 
