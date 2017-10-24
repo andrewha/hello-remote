@@ -16,7 +16,7 @@ A simple table
 
 | Col_1 | Col_2 | ... | Col_N |
 | --- | --- | :---: | ---: |
-| row_1 | ```javascript<br>var s = "JavaScript syntax highlighting";<br>alert(s);``` | **important** | 12345 |
+| row_1 | `Javascript:\var s = "JavaScript syntax highlighting";\alert(s);` | **important** | 12345 |
 | row_2 | ```python
 s = "Python syntax highlighting"
 print s
