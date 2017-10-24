@@ -16,7 +16,7 @@ A simple table
 
 | Col_1 | Col_2 | ... | Col_N |
 | --- | --- | :---: | ---: |
-| row_1 | `Javascript:\var s = "JavaScript syntax highlighting";\alert(s);` | **important** | 12345 |
-| row_2 | `Python:<br>s = "Python syntax highlighting"<br>print s` | _skip this_ | 6789 |
-| row_3 | no code here | n/a | 0 |
+| lan_1 | `Javascript:\var s = "JavaScript syntax highlighting";\alert(s);` | **important** | 12345 |
+| lan_2 | `Python:<br/>s = "Python syntax highlighting"<br>print s` | _skip this_ | 6789 |
+| lan_3 | no code here | n/a | 0 |
 
