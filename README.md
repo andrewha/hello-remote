@@ -22,7 +22,7 @@ A simple table
 
 Rules are a list of natural language clauses constructed so that the right-hand side of the clause is implied from the left-hand side of the clause, i.e. rules must be logical syllogisms. Left-hand sides and right-hand sides are key-value pairs and are thus one pair dictionaries. The left-hand side clause can have more than one part. In this case, parts are treated as being combined with the `AND` logical operation and are syntactically separated by a comma. The `OR` logical opeartion is not supported - such a rule can easily be written as two rules having the same right-hand side, i.e. `IF` **a** `OR` **b** `THEN` **c** is equivalent to `IF` **a** `THEN` **c** followed by `IF` **b** `THEN` **c**.
 
-```yaml
+```
 # a list of rules with each rule being a dict
 Rules:
     - raining, go outside: take umbrella # IF raining AND go outside THEN take umbrella
