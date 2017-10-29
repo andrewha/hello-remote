@@ -19,3 +19,12 @@ A simple table
 | lan_1 | `Javascript: var s = "JavaScript syntax highlighting"; alert(s);` | **important** | 12345 |
 | lan_2 | `Python: s = "Python syntax highlighting" print s` | _skip this_ | 6789 |
 | lan_3 | no code here | n/a | 0 |
+
+```yaml
+Facts:
+    Hello world program:
+        - This is a "Hello, World!" program
+
+Rules:
+    hello world: Hello, world!
+```
